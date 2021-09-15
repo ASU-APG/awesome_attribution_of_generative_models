@@ -34,9 +34,10 @@ In this case, attribution allows the content owner to protect their intellectual
 ## Model Attribution
 The following list of papers showed that the source model of fake media is attributable.
 * [Do GANs Leave Artificial Fingerprints?](https://ieeexplore.ieee.org/abstract/document/8695364?casa_token=yTB5X886HvQAAAAA:nIAEKBNZrL07aqIRb6Dml0BHbS-NBSAKiLpn8xzk2YURs0kA2VwE_DkyaadMXRYJkfgssEus) (Marra et al. 2019) examined the artificial fingerprints of GANs can be used for source identification.
-* [Source Generator Attribution via Inversion](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Albright_Source_Generator_Attribution_via_Inversion_CVPRW_2019_paper.pdf) (Albright et al.) proposed the method that inverts the given image to find latent vector. 
+* [Source Generator Attribution via Inversion](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Albright_Source_Generator_Attribution_via_Inversion_CVPRW_2019_paper.pdf) (Albright et al. 2019) proposed the method that inverts the given image to find latent vector. 
 And this vector is utilized for finding the best reconstruction.
 * [Scalable Fine-grained Generated Image Classification Based on Deep Metric Learning](https://arxiv.org/abs/1912.11082) (Xuan et al. 2019)
+* [Analyzing and Improving the Image Quality of StyleGAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) (Karras et al. 2020) mentioned model attribution and tested their model can invert images back to the latent code better than StyleGAN.
 * [How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals](https://arxiv.org/abs/2008.11363) (Ciftci et al. 2020)
 * [Not My Deepfake: Towards Plausible Deniability forMachine-Generated Media](https://arxiv.org/abs/2008.09194) (Zhang et al. 2020)
 * [Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images](https://arxiv.org/abs/2106.07873) (Asnani et al. 2021) proposed a novel problem 'model parsing', which estimates network structure and loss function of open-world fake images. 
