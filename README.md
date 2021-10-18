@@ -41,7 +41,8 @@ And this vector is utilized for finding the best reconstruction.
 * [How Do the Hearts of Deep Fakes Beat? Deep Fake Source Detection via Interpreting Residuals with Biological Signals](https://arxiv.org/abs/2008.11363) (Ciftci et al. 2020)
 * [Not My Deepfake: Towards Plausible Deniability forMachine-Generated Media](https://arxiv.org/abs/2008.09194) (Zhang et al. 2020)
 * [Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images](https://arxiv.org/abs/2106.07873) (Asnani et al. 2021) proposed a novel problem 'model parsing', which estimates network structure and loss function of open-world fake images. 
-* [Learning to Disentangle GAN Fingerprint for Fake Image Attribution](https://arxiv.org/abs/2106.08749) (Yang et al. 2021) proposed GAN Fingerprint Disentangling Network (GFD-Net), which extracts disentangled fingerprint and producing content-irrelevant representation for model attribution. 
+* [Learning to Disentangle GAN Fingerprint for Fake Image Attribution](https://arxiv.org/abs/2106.08749) (Yang et al. 2021) proposed GAN Fingerprint Disentangling Network (GFD-Net), which extracts disentangled fingerprint and producing content-irrelevant representation for model attribution.
+* [Towards Discovery and Attribution of Open-world GAN Generated Images](https://arxiv.org/abs/2105.04580) (Girish et al. 2021) introduced on-line learning methodology that can achieve model attribution in open-world setting.
 ## User Attribution 
 The following list showed that the users are attributable even if they create fake media using the same structured generative model.
 ### Sufficient Condition Studies
